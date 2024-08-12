@@ -1,0 +1,6 @@
+.main {
+    background-image: url(/src/assets/Frame\ 1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-clip: content-box;
+}
